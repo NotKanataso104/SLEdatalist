@@ -37,5 +37,17 @@
     "side": 2,
     "sideid1": "rbxassetid://122744463766286",
     "sideid2": "rbxassetid://81744865912109"
+  },
+  {
+    "number": 4,
+    "route": "904XY",
+    "front": 2,
+    "frontid1": "rbxassetid://122744463766286",
+    "frontid2": "rbxassetid://81744865912109",
+    "controllerid1": "rbxassetid://134456208964904",
+    "controllerid2": "rbxassetid://130763823870145",
+    "side": 2,
+    "sideid1": "rbxassetid://122744463766286",
+    "sideid2": "rbxassetid://81744865912109"
   }
 ]
